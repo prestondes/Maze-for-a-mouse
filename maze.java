@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Maze2 {
+public class Maze {
 
 	public static void main(String[] args) {
 
